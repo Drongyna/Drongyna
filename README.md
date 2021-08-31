@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mark
-- 👀 I’m interested in IOS App development
-- 🌱 I’m currently learning OOP/OOD, Xcode,SwiftUI, MVC, Firebase, Json, programming apps like calculator, calendar, weather 
-- 💞️ I’m looking to collaborate on trainee/junior IOS development projects
-- I have some related experience in Android studio, Java basic,HTML/CSS, MySQL, app development
+-I’m interested in IOS App development
+-I’m currently learning OOP/OOD, Xcode,SwiftUI, MVC, Firebase, Json, programming apps like calculator, calendar, weather 
+-I’m looking to collaborate on trainee/junior IOS development projects
+-I have some related experience in Android studio, Java basic,HTML/CSS, MySQL, app development
 - 📫 How to reach me please write pavlivm1@gmail.com or Linkedin.
 
 <!---
